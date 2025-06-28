@@ -1,10 +1,10 @@
 
 
-name: Build and Test HousRenting
+name: Build and Test Hous Renting
 
 on:
   
-  pull_request:
+  push:
     branches:
      - develop
      - feature
